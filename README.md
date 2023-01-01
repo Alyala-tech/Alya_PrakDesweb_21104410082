@@ -14,10 +14,11 @@ Kampus  : Universitas Islam Balitar
 
 ## 🚨 Penting!
 - Jika membuka dengan codepen : Sebagian gambar tidak akan muncul karena tersimpan pada penyimpanan lokal
+- Sebagian  tampilan juga tidak 
 
 
 ## 🔗 Live Preview Tugas
 
 - Pertemuan 1 : https://codepen.io/collection/rxpPdz
-- Pertemuan 2&3 : (link collection codepen)
-- Pertemuan 4 :
+- Pertemuan 2&3 : https://codepen.io/collection/LPrqmK
+- Pertemuan 4 : https://codepen.io/collection/LPrqJw
